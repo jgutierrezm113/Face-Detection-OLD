@@ -4,4 +4,4 @@ This is a project mixing Caffe and C++ using an already designed approach from p
 Multi-task Cascaded Convolutional Networks" for face and landmark detection as a final project for a class.
 
 Visit this web page for more information:
-<IP>
+http://juliangutmon.wixsite.com/face-detection
