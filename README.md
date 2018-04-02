@@ -1,3 +1,7 @@
+# OBSOLETE VERSION
+NOTE!!!
+Please contact me for the latest version.
+
 # Face-Detection
 
 This is a project mixing Caffe and C++ using an already designed approach from paper "Joint Face Detection and Alignment using
